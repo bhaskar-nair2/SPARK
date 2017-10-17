@@ -1,0 +1,6 @@
+Speak will do all the output via Speech, No other module willl have pyttsx
+Listen will do all the input, No other module will have speech recogniser
+Head will decide
+Spark is the opening Page which we have to Run
+The threading will be done in SPARK module
+Functions has all functionalities
