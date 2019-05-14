@@ -1,0 +1,11 @@
+autopep8==1.4.4
+pep8==1.7.1
+playsound==1.2.2
+PyAudio==0.2.11
+pycodestyle==2.5.0
+PyMySQL==0.9.3
+pyttsx3==2.71
+ruamel.yaml==0.15.94
+SpeechRecognition==3.8.1
+vext==0.7.3
+vext.gi==0.7.0

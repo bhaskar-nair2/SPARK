@@ -1,9 +1,10 @@
 import listen as ls
 import threading
 
+
 def worker():
     ls.rec.recd()
-    
+
 
 threads = []
 for i in range(5):
